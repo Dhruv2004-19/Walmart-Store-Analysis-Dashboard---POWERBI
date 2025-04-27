@@ -1,0 +1,31 @@
+📊 Key Features:- 
+
+Top 10 Customers by Profit — Bar chart visualizing highest-profit customers.
+Dynamic Year-wise Slicer (2012-2015) — Allows users to filter and analyze year-specific data.
+KPI Cards — Display key metrics such as:
+
+Total Sales
+Unit Sales
+Total Profit
+Discount KPI
+
+Sales by Segment — Pie chart showcasing sales distribution across Customer Segments.
+Sales by Market — Donut chart analyzing regional market sales.
+Sales by Region — Map visualization of sales spread geographically.
+Top 5 & Bottom 5 Products by Profit — Horizontal bar charts for quick product profitability comparison.
+Profit and Loss Bar Chart — Visual representation of profitable and loss-making areas
+
+🛠️ Tools & Technologies Used:-
+
+Power BI Desktop
+Data Modeling
+DAX Functions
+Data Visualization
+
+📈 Skills Demonstrated :-
+
+Data cleaning and preparation
+Building interactive slicers and filters
+KPI and dynamic measure creation
+Visual storytelling through charts and maps
+Dashboard layout and performance optimization
